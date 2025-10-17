@@ -10,13 +10,13 @@ Ficou um tempo guardado até eu finalmente decidir postar este e outros exercíc
 ## 📂 Conteúdo do Projeto
 
 - `cat_rocks1_21.ino` → Código-fonte do Arduino
-- `Cat Rocks1.2.png` → Imagem do circuito criado no Tinkercad
+- `circuito.png` → Imagem do circuito criado no Tinkercad
 
 ---
 
 ## 📸 Circuito
 
-![Circuito](cat-rocks1.png)
+![Circuito](circuito.png)
 
 ---
 
